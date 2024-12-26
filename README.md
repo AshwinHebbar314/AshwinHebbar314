@@ -12,7 +12,10 @@ An engineer by nature, a programmer at heart, and a data scientist in practice. 
 *   🚀  I'm currently working on [Space Data](http://www.ursc.gov.in/)
 *   🧠  I'm learning PyTorch, NLP Methods and LLMs
 *   🤝  I'm open to collaborating on Interesting ways to bring meaning from data
-*   <a href="https://www.github.com/AshwinHebbar314" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/AshwinHebbar314?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+
+
+<a href="https://www.github.com/AshwinHebbar314" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/AshwinHebbar314?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills 
 <p align="left">
