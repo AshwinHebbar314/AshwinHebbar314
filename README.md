@@ -1,7 +1,7 @@
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ashwin Hebbar
 =====================================================================================================================================
 
-Project Trainee @ ISRO | Data Science, Deep Learning, Web Dev
+Agentic AI Intern @ USDC Global | Data Science, Deep Learning, Web Dev
 -------------------------------------------------------------
 
 An engineer by nature, a programmer at heart, and a data scientist in practice. I bring my diverse skill set, analytical mindset, and technical expertise to solve complex problems at the intersection of engineering and societal impact, leveraging data-driven insights and AI to foster human connection and bring about a positive impact on the world around me.
@@ -9,7 +9,7 @@ An engineer by nature, a programmer at heart, and a data scientist in practice. 
 *   🌍  I'm based in Bengaluru, IN
 *   🖥️  See my portfolio at [My Website and Blog](http://aswn.me)
 *   ✉️  You can contact me at [ashwinhebbar2k02@gmail.com](mailto:ashwinhebbar2k02@gmail.com)
-*   🚀  I'm currently working on [Space Data](http://www.ursc.gov.in/)
+*   🚀  I'm currently working on building high performance applications for the Indian Edtech Space
 *   🧠  I'm learning PyTorch, NLP Methods and LLMs
 *   🤝  I'm open to collaborating on Interesting ways to bring meaning from data
 
